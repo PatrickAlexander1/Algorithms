@@ -4,4 +4,4 @@
 
 - [x] A* Search Algorithm
 - [x] Huffman Coding
-- [x] Square Roots with Binary Search
+- [x] Fast Square Roots
