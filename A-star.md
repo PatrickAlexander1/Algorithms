@@ -1,3 +1,6 @@
+# A* Search Algorithm
+Written in Python with abundant comments for explanation.
+
 ~~~python
 from heapq import heapify, heappush, heappop
 import math
